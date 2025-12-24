@@ -1,0 +1,20 @@
+[
+    {
+        "id": "t1",
+        "title": "393ü bitir",
+        "description": "kod video",
+        "points": 2,
+        "status": "APPROVED",
+        "rating": 5,
+        "reviewed_by": "Parent"
+    },
+    {
+        "id": "t2",
+        "title": "smdkvm",
+        "description": "skvnrk",
+        "points": 2,
+        "status": "APPROVED",
+        "rating": 5,
+        "reviewed_by": "Parent"
+    }
+]
